@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VISITOR MANAGEMENT SOFTWARE INITIATIVE
 
-## Getting Started
+## 1. Technical or Organizational Status Before the Initiative
 
-First, run the development server:
+In practice, during the management of visitors entering and leaving the unit to visit commissioned officers, non-commissioned officers, and soldiers, the process has still relied on **manual visitor logbooks** with handwritten records.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This traditional method is **prone to errors** and causes **significant difficulties in inspection, review, and verification** when required.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Proposed Solution:**  
+Apply a **visitor management software system** to digitally input and manage visitor information.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 2. Description of the Initiative Solution
 
-## Learn More
+- The software is designed to **manage visitors entering and leaving the unit to visit commissioned officers, non-commissioned officers, and soldiers** in a **fast, efficient, accurate, and convenient** manner.
+- It facilitates **information review, retrieval, and verification** whenever necessary.
+- **Software name:** *Visitor Management Software*
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 3. Scope of Implementation of the Initiative
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The application can be deployed **at platoon level and above**, enabling effective management of visitor information related to commissioned officers, non-commissioned officers, and soldiers entering and leaving the unit.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 4. Evaluation of the Effectiveness of Applying the Initiative
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- The solution is **consistent with the military’s digital transformation orientation**.
+- The initiative demonstrates **high potential for replication and scalability**.
+- It can be applied **on a broad scale**, suitable for **all subjects and all units**.
+- The system design includes **sufficient technical parameters and is feasible** in practical implementation.
+- The solution has been **successfully tested**.
+
+---
