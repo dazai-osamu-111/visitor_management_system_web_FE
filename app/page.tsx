@@ -45,7 +45,7 @@ interface IFormData {
 
 // --- CẤU HÌNH ---
 // Cập nhật URL ngrok của bạn mỗi khi khởi động lại
-const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://05b45432696f.ngrok-free.app';
 export default function RegisterPage() {
   
   // --- STATE ---
